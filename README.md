@@ -1,0 +1,1 @@
+Developed a responsive and visually accurate Amazon website clone using HTMLand CSS.Learned and applied core concepts of frontend development,including layout structuring ,styling,flexbox,grids,responsive design and hover interactions.Built this project as a  part of my self-learning.
